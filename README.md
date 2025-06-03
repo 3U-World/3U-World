@@ -1,6 +1,6 @@
 
 
-<h1> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhwZWQ4ejZtdGQ4MHJodmY2ODRpbW9mOGUwZHJieWRqZmtpdXdrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1wlWtflbknYsTbvahh/giphy.gif" width="50" />I'm U3-World — An Senior Software Engineer</h1>
+<h1> &nbsp;<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhwZWQ4ejZtdGQ4MHJodmY2ODRpbW9mOGUwZHJieWRqZmtpdXdrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1wlWtflbknYsTbvahh/giphy.gif" width="50" />I'm U3-World — An Senior Software Engineer</h1>
 
 
 ---
