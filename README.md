@@ -7,7 +7,7 @@
 
 <h3>About Me</h3>
 
-- 💻 Daily Languages: **Python** / **Go** / **Kotlin** / **React** / **Next.js** / **PHP** and more.
+- 💻 Daily Languages: **Python** / **Java** / **Go** / **Kotlin** / **React** / **Next.js** / **PHP** and more.
 - 🧠 Passionate about **Natural Language Processing** and real-world AI.
 - 🤝 Open to collaborating on innovative deep learning and tech projects.
 
