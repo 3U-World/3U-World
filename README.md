@@ -38,7 +38,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50" height="50" />
-
+</p>
 <!-- Add more badges as desired -->
 
 ---
